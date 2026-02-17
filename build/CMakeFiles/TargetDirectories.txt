@@ -1,0 +1,3 @@
+/shared/AMSC/Quantitative-Finance-FFT/build/CMakeFiles/example_page7_cerny2006.dir
+/shared/AMSC/Quantitative-Finance-FFT/build/CMakeFiles/edit_cache.dir
+/shared/AMSC/Quantitative-Finance-FFT/build/CMakeFiles/rebuild_cache.dir
